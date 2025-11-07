@@ -4,6 +4,8 @@
 
 O GPSMottu - Gestão de Motos é uma aplicação desenvolvida com foco em auxiliar operadores e gestores de filiais no controle e monitoramento de motos, funcionários e setores da empresa.
 
+[Compliance, Quality Assurance e Tests - GPSMottu](https://youtu.be/lCPcdapk2nQ)
+
 O sistema foi projetado para oferecer gestão eficiente e rastreabilidade total da frota, permitindo que as empresas tenham visibilidade completa sobre a localização e o status de suas motos em tempo real.
 
 ## 🔧 Funcionalidades Principais
